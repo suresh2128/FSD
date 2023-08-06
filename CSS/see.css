@@ -1,0 +1,13 @@
+.a{
+	width:1000px;
+	height:500px;
+	border:2px solid black;
+}
+.b{
+	width:500px;
+	height:200px;
+	border:5px solid red;
+	position:absolute;
+	top:20%;
+	left:20%;
+}

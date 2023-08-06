@@ -1,0 +1,22 @@
+.ola{
+	outline: 15px dashed black;
+	box-shadow:  0 0 0 15px greenyellow;
+}
+div{
+	margin:0px;
+	width: 450px;
+	height:200px;
+	background-color:lightcyan;
+}
+.abc{
+	margin-block-end:20px;
+	background-color:red;
+}
+.cvb{
+	width:500px;
+	height:500px;
+	border:2px solid; 
+}
+.sdf{
+	
+}

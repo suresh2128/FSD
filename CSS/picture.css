@@ -1,0 +1,133 @@
+body{
+	background-color:yellowgreen;
+}
+.main{
+	height:800px;
+	width:1450px;
+	background-color:lavender;
+	border:5px solid black;
+}
+.d1{
+	margin-top:5px;
+	width:1420px;
+	height:75px;
+	margin-bottom:20px;
+	background-color:white;
+	align-content:right;
+}
+.d2{
+	width:350px;
+	height:650px;
+	float:left;
+	background-color:white;
+	margin-right:20px;
+	margin-left:20px;
+}
+.d3{
+	width:770px;
+	height:700px;
+	float:left;
+	
+}
+.d4{
+	width:770px;
+	height:300px;
+	margin-bottom:20px;
+	background-color:white;
+}
+.d5{
+	width:770px;
+	height:380px;
+	background-color:white;
+}
+button{
+	margin-top:10px;
+	font-size:20px;
+	background-color:aqua;
+	margin-right:5px;
+	color:white;
+	border-radius:5px;
+	margin-top:20px;
+	
+}
+.p{
+	background-color:lightgreen;
+	margin:5px;
+}
+.q{
+	background-color:crimson;
+}
+i{
+	font-size:55px;
+	text-align:center;
+	border:3px solid blue;
+	border-radius:50%;
+	margin-top:10px;
+}
+h2{
+	margin-bottom:10px;
+}
+p{
+	margin-top:5px;
+}
+.d2 button{
+	margin-bottom:20px;
+	background-color:blue;
+	border-radius:5px;
+	color:white;
+	margin-top:10px;
+}
+#d1 i{
+	font-size:25px;
+	margin-right:250px;
+}
+#d1 h2{
+	margin-right:220px;
+}
+input{
+	height:20px;
+	width:400px;
+	margin-left:20px;
+}
+.d4 label,input{
+	margin-right:50px;
+	margin-top:20px;
+	font-size:20px;
+	margin-left:10px;
+}
+.d4 button{
+	margin-left:150px;
+	background-color:blue;
+	color: white;
+	margin-bottom:10px;
+}
+.d5 p{
+	margin-left:8px;
+}
+h2{
+	margin-left:5px;
+}
+span{
+	position:relative;
+	right:65%;
+}
+progress{
+	width:650px;
+	margin-left:10px;
+}
+.w{
+	margin-left:50px;
+}
+.w1{
+	margin-left:45px;
+}
+.a1{
+	margin-left:40px;
+}
+.a2{
+	margin-left:40px;
+}
+#k{
+	background-color:white;
+	color:blue;
+}
