@@ -1,0 +1,300 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+.a{
+	height:1200px;
+	width:1400px;
+	background-color:black;
+	margin-left: 40px;
+}
+.b{
+	height:800px;
+	width:auto;
+	background-color:skyblue;
+	background-image:url('../images/image2.jpg');
+	background-repeat:no-repeat;
+    background-size: cover;
+}
+p{
+	position:absolute;
+	left:80%;
+	top:70%;
+}
+.c{
+	height:400px;
+	width:1400px;
+	background-color:seagreen;
+}
+.d{
+	margin-top:30px;	
+	font-size:70px;
+	color:lightgreen;
+	text-decoration:5px underline yellow;
+	text-shadow:2px 2px;
+	margin-left:650px;
+}
+
+#h1{
+	position:absolute;
+	top:25%;
+	left:55%;
+	font-size:70px;
+	color:white;
+}
+#h2{
+	position:absolute;
+	top:35%;
+	left:50%;
+	font-size:70px;	
+	color:white;
+}
+#h3{
+	position:absolute;
+	top:45%;
+	left:48%;
+	font-size:70px;
+	color:white;
+}
+.p1{
+	position:absolute;
+	top:60%;
+	left:30%;
+	color:white;
+	font-size:20px;
+}
+.p2{
+	position:absolute;
+	top:65%;
+	left:30%;
+	color:white;
+	font-size:20px;
+}
+.p3{
+	position:absolute;
+	top:70%;
+	left:30%;
+	color: white;
+	font-size:20px;
+}
+.p4{
+	position:absolute;
+	top:75%;
+	left:60%;
+	color:white;
+	font-size:20px;
+}
+img{
+	width:300px;
+	height:300px;
+	margin-top:60px;
+	margin-left:120px;
+	border-radius:30px;
+	border:5px solid black;
+}
+.e{
+	width:1300px;
+	height:600px;
+	background-color:black;
+	margin-top:20px;
+	margin-left:140px;
+}
+.e1{
+	width:650px;
+	height:600px;
+	float:left;
+	background-image:url('../images/image5.jpg');
+	background-repeat:no-repeat;
+    background-size: cover;
+}
+.e2{
+	width:650px;
+	height:600px;
+	float:right;
+	background-color:#4E3504;
+	font-size:25px;
+	color:orange;
+}
+.e3{
+	margin-top:80px;
+	margin-left:50px;
+}
+.f{
+	width:1000px;
+	height:350px;
+	background-color:lightgreen;
+	margin-top:20px;
+	margin-left:300px;
+}
+.f1{
+	margin-top:50px;
+	font-size:30px;
+	text-align:center;
+}
+.f2{
+	font-size:50px;
+	padding-top:30px;
+}
+.g{
+	width:1300px;
+	height:900px;
+	background-color:yellow;
+	margin-top:30px;
+	margin-left:150px;
+}
+.g1{
+	width:1300px;
+	height:600px;
+	background-color:lightblue;
+} 	
+.g2{	
+	width:1300px;
+	height:300px;
+	background-color:gray;
+}.g3{
+	width:1000px;
+	height:500px;
+	background-color:green;
+	position:relative;
+	left:10%;
+	top:9%;
+}
+.g4{
+	width:500px;
+	height:500px;
+	float:left;
+	background-color:white;
+	font-size:20px;
+	position:;
+}
+.g5{
+	width:500px;
+	height:500px;
+	background-color:red;
+	float:right;
+	background-image:url('../images/image8.png');
+	background-repeat:no-repeat;
+    background-size: cover;
+}
+.g6{
+	position:relative;
+	top:20%;
+	left:10%;
+}
+.g2 i{
+	font-size:100px;
+	margin-left:150px;
+	margin-top:50px;
+}
+.h1{
+	height:290px;
+	width:1250px;
+	background-color:lightslategray;
+	margin-left:200px;
+	margin-top:30px;
+	font-size:40px;
+	font-family: sans-serif;
+	padding:50px;
+}
+.i{
+	height:500px;
+	width:1350px;
+	background-color:pink;
+	margin-top:30px;
+	margin-left:120px;
+}
+.i1{
+	height:500px;
+	width:675px;
+	background-color:skyblue;
+	float:left;
+}
+.i2{
+	height:500px;
+	width:675px;
+	float:right;
+	background-image:url('../images/image9.jpg');
+}
+.i3{
+	font-size:30px;
+	margin-top:150px;
+	margin-left:80px;
+	font-family:sans-serif;
+}
+.j{
+	width:1400px;
+	height:500px;
+	margin-top:10px;
+	margin-left:100px;
+}
+.j img{
+	width:1400px;
+	height:500px;
+	margin:0;
+	border-radius:0;
+}
+.j1{
+	margin-left:650px;
+	margin-top:20px;
+	margin-bottom:20px;
+	font-size:50px;
+}
+.k{
+	width:1400px;
+	height:600px;
+	background-color:black;
+	margin-top:20px;
+	margin-left:100px;
+}
+.k1{
+	width:700px;
+	height:600px;
+	background-image:url('../images/image11.webp');
+	float:left;
+}
+.k2{
+	width:700px;
+	height:600px;
+	background-color:skyblue;
+	float:right;
+}
+.k3{
+	margin-top:100px;
+	margin-left:30px;
+	font-size:30px;
+	}
+.l{
+	width:1400px;
+	height:600px;
+	background-color:red;
+	margin-top:20px;
+	margin-left:100px;
+}
+.l1{
+	width:1400px;
+	height:400px;
+	background-color:lavenderblush;
+}
+.l2{
+	width:1400px;
+	height:200px;
+	background-color:gray;
+}
+.l3{
+	text-align:center;
+	font-size:30px;
+}
+.l3 button{
+	font-size:30px;
+	background-color:green;
+	color:red;
+	border-radius:20px;
+	padding:10px;
+}
+.l4{
+	position:relative;
+	top:35%;
+	left:40%;
+	font-size:30px;
+}
